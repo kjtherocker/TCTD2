@@ -1,2 +1,2 @@
-# TCTD2
-TCTD2
+# TCTD
+Twilights Call Tower Defence
